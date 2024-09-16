@@ -30,3 +30,5 @@ After training, the model's performance is evaluated to determine its accuracy a
 This section allows for experimentation with different SVM parameters to explore their impact on model performance.
 # Conclusion
 This notebook provides a practical sample approach to understanding and applying SVM for binary classification problems in the field of medical diagnostics. By following the steps outlined, we can not only reproduce the results but also gain insights into SVM’s operational mechanics.
+
+My speciall thanks to IBM Developer Skills Network.
